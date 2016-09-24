@@ -1,0 +1,29 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.header{
+  background-color: orange;
+  height: 60px; 
+}
+
+.header p{
+  margin: -15px 0px 0px 0px;
+}
+
+.card{
+  padding: 10px;
+  border: 1px solid grey;
+}
+
+.img{
+  height: 200px;
+}
+
+.card p{
+  margin: -15px 0px 0px 0px;
+}
